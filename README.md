@@ -1,2 +1,2 @@
 # Yelp_regression
- Yelp regression project for Codecademy course
+ Yelp regression project
